@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha"
+    "test": "node ./node_modules/mocha/bin/mocha"
   },
-  "author": "",
+  "author": "Ademide Adeboye",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
